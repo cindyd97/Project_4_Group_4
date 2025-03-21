@@ -8,7 +8,7 @@ We are a group of data analysts working for CMHDR Bank and we have been tasked w
 
 Banks and financial services institutions utilize credit score classification to assess a borrower's creditworthiness, enabling them to make calculated decisions about managing risk and profitability. There are 5 credit score brackets that a person can fall into, however, for simplicity purposes, our project will focus on 3 categories of credit which are Good, Standard, or Bad.
 
-
+Financial loan services are utilized by many companies, especially, in the financial services and banking industry. The goal of financial loan services is to mitigate the risk of default payments and ensure that clients are paying back their loans in compliance with their loan contract. Clients will either be deemed default (high risk) or not (low risk).
 
 ### Language: 
 Python Machine learning - Neural Networks (google.colab)
@@ -32,7 +32,7 @@ CMHDR Bank is a fictional bank that was made up for project work purposes.
 
 - Loan Data:  
 
-- [Cleaning the Credit and Loan Dataset] ()
+- [Cleaning the Credit and Loan Dataset]()
 -  [Original Credit Dataset]()
 - [Original Loan Dataset]()
 - [Cleaned Credit Dataset]()
