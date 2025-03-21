@@ -28,14 +28,14 @@ https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 CMHDR Bank is a fictional bank that was made up for project work purposes.
 
 ### Cleaning the datasets:
+- [Cleaning the Credit and Loan Dataset]()
 - Credit data: We removed certain columns that were deemed unnecessary to the overall features of the data set like the customer id, name, SSN, and type of loan. While the type of loan could be deemed significant as a feature, there were more than 6,000 rows with unique values which we concluded that the data set would be too large to normalize using the onehotencoder method. We then converted columns that were meant to be numeric to an integer (originally string objects). The 'Credit_History_Age' column specified the amount of years and months of each customer's age of credit as a string so we created a function that would convert it to a float. The 'Age' column had null values and logically, shouldn't be replaced with 0, so we removed the rows in the entire data set that had a null value in this column. The other columns with null values were replaced with a 0 integer as it is logically acceptable for certain credit features to be 0 for these columns. Our label column, 'Credit_Mix', was also cleaned to remove null values in the entire data set for this column and converted to integers for proper labeling. The label column includes 3 labels: Standard (0), Good (1), Bad (2).
-
+- [Original Credit Dataset]()
+- [Cleaned Credit Dataset]()
 - Loan Data:  
 
-- [Cleaning the Credit and Loan Dataset]()
--  [Original Credit Dataset]()
+
 - [Original Loan Dataset]()
-- [Cleaned Credit Dataset]()
 - [Cleaned Loan Dataset]()
 
 
