@@ -45,7 +45,8 @@ Before creating a neural network model, we prepared the data set by turning the 
 ### Credit Score Model Results
 
 The best-fit model was able to attain an accuracy score of 0.8582 and a loss score of 0.3207
-
+![download](https://github.com/user-attachments/assets/483bd8ed-e4a4-45f6-833e-3f360303b235)
+![download (1)](https://github.com/user-attachments/assets/6c74a19d-8fd8-4971-b60e-fbf59aa49380)
 
 ### Loan Default Prediction
 [Python Script Building the Loan Risk Model](https://github.com/cindyd97/Project_4_Group_4/blob/main/Loan_NN_colab.ipynb)
@@ -55,6 +56,8 @@ Before creating a neural network model, we prepared the data set by turning the 
 ### Loan Default Model Results
 
 The best-fit model was able to attain an accuracy score of 0.8835 and a loss score of 0.3600
+![download (2)](https://github.com/user-attachments/assets/c9ecad47-cb6c-4e99-af7c-31a1f7d857c7)
+![download (3)](https://github.com/user-attachments/assets/59752de9-9a89-44e5-a619-853e841d6a79)
 
 ### Understanding the Client Data
 
