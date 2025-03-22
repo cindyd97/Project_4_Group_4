@@ -39,6 +39,7 @@ CMHDR Bank is a fictional bank that was made up for project work purposes.
 
 ### Credit Score Prediction
 [Building the Credit Score Model](https://github.com/cindyd97/Project_4_Group_4/blob/main/Credit_NN_colab.ipynb)
+
 Before creating a neural network model, we prepared the data set by turning the object columns to categorical data by using the 'onehotencoder method'. We then performed a train, test split on the data set before scaling and fitting the model. We created a function that would find the best-fit hyperparameters for our neural network model. The function finds the best activation, amount of neurons for the first layer, amount of hidden layers, as well as amount of neurons for each hidden layer. Using the tuner, we found the best-fit model for our machine-learning model. The model is built to predict whether a client's credit score is either Standard, Good, or Bad based on relevant features of each customer/client. There are mark-downs in the notebook that indicate which lines of code were sourced externally. CMHDR Bank may use this model to evaluate their customers' credit-score based on the relevant information of the account and determine which category they may fall into. 
 
 ### Results
@@ -48,6 +49,7 @@ The best-fit model was able to attain an accuracy score of 0.8582 and a loss sco
 
 ### Loan Default Prediction
 [Building the Loan Risk Model](https://github.com/cindyd97/Project_4_Group_4/blob/main/Loan_NN_colab.ipynb)
+
 Before creating a neural network model, we prepared the data set by turning the object columns to categorical data by using the 'onehotencoder method'. We then performed a train, test split on the data set before scaling and fitting the model. We created a function that would find the best-fit hyperparameters for our neural network model. The function finds the best activation, amount of neurons for the first layer, amount of hidden layers, as well as amount of neurons for each hidden layer. Using the tuner, we found the best-fit model for our machine-learning model. The model is built to predict whether a client's loan could become a risk to the bank. It determines whether a loan account could become Default or not.
 
 ### Results
