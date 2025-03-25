@@ -73,7 +73,7 @@ The best-fit model was able to attain an accuracy score of 0.8835 and a loss sco
 
 ### Presenting the Project
 
-[Presentation Slide Deck]()
+[Presentation Slide Deck](https://docs.google.com/presentation/d/18LtV2LzUJRmvuMa6Aa6T21cFgOnw9Ef3tUOtRMesnJI/edit?usp=sharing)
 
 
 
