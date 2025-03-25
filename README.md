@@ -67,7 +67,7 @@ The best-fit model was able to attain an accuracy score of 0.8835 and a loss sco
 
 ### Understanding the Client Data
 
-[Tableau Public Dashboard - Loan Data]()
+[Tableau Public Dashboard - Loan Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankLoanStatistics/LoanStatistics?publish=yes)
 
 [Tableau Public Dashboard - Credit Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankClientStatistics/CreditStatistics2?publish=yes)
 
