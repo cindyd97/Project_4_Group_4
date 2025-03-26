@@ -36,6 +36,7 @@ CMHDR Bank is a fictional bank that was made up for project work purposes.
 - [Original Loan Dataset](https://github.com/cindyd97/Project_4_Group_4/blob/main/Resources/Loan_default.csv)
 - [Cleaned Loan Dataset](https://github.com/cindyd97/Project_4_Group_4/blob/main/Resources/clean_loan_data.csv)
 
+The goal of the bank is to create a model that would have at least an 80% accuracy score to be acceptable to deploy as part of their business process in opening credit cards or originating loans
 
 ### Credit Score Prediction
 [Pytho Script to Building the Credit Score Model](https://github.com/cindyd97/Project_4_Group_4/blob/main/Credit_NN_colab.ipynb)
