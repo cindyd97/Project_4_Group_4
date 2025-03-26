@@ -66,6 +66,8 @@ The best-fit model was able to attain an accuracy score of 0.8835 and a loss sco
 ![download (3)](https://github.com/user-attachments/assets/59752de9-9a89-44e5-a619-853e841d6a79)
 
 
+With an accuracy score of approximately 85% for our credit card model and approximately 88% for our loan model, our team concluded that the machine learning models are acceptable to deploy for the banks usage in their business processes.
+
 ### Understanding the Client Data
 
 [Tableau Public Dashboard - Loan Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankLoanStatistics/LoanStatistics?publish=yes)
