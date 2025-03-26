@@ -72,7 +72,7 @@ With an accuracy score of approximately 85% for our credit card model and approx
 
 [Tableau Public Dashboard - Loan Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankLoanStatistics/LoanStatistics?publish=yes)
 
-[Tableau Public Dashboard - Credit Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankClientStatistics/CreditStatistics2?publish=yes)
+[Tableau Public Dashboard - Credit Data](https://public.tableau.com/app/profile/cindy.duong2876/viz/CMHDRBankClientStatistics/CreditStatistics?publish=yes)
 
 ### Presenting the Project
 
