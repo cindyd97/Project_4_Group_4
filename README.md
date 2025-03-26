@@ -76,7 +76,7 @@ With an accuracy score of approximately 85% for our credit card model and approx
 
 ### Presenting the Project
 
-[Presentation Slide Deck](https://docs.google.com/presentation/d/18LtV2LzUJRmvuMa6Aa6T21cFgOnw9Ef3tUOtRMesnJI/edit?usp=sharing)
+[Presentation Slide Deck](https://github.com/cindyd97/Project_4_Group_4/blob/main/Group%204%20Presentation.pptx)
 
 
 
